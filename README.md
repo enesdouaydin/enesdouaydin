@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Doğukan</h1>
-<h3 align="center">A passionate frontend developer and Cyber Security researcher from Turkey</h3>
+<h3 align="center">Junior Developer and researcher cyber securiy</h3>
 
 - 🔭 I’m currently working on **HTML/CSS/JS/JAVA/LINUX/DOCKER**
 
