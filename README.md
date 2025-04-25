@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Doğukan</h1>
-<h3 align="center">Junior Developer and researcher cyber securiy</h3>
+<h3 align="center">AI&DATA SCIENCE ENGINEER </h3>
 
 - 🔭 I’m currently working on **Python/AI AGENT/AI/DL-ML/DATA SCIENCE/FASTAPI/LINUX/DOCKER**
 
