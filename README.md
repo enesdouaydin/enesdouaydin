@@ -37,7 +37,6 @@
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a>
 </p>
 
-> Ayrıca: **YOLO** (nesne tespiti / computer vision) — devicon'da hazır ikonu olmadığı için listeye eklenmedi, istersen shields.io ile özel rozet de yapabiliriz.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesdouaydin&show_icons=true&locale=en&layout=compact" alt="enesdouaydin" /></p>
 
