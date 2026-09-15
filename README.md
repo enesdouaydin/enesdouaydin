@@ -4,7 +4,7 @@
 - 🔭 I'm currently building **AI agents, microservice backends, and data platforms** — most recently a multi-service retail analytics platform (AI agent w/ local LLM via Ollama, FastAPI microservices, PostgreSQL, Docker, TypeScript/React frontend)
 - 🤖 Focused on **LLM agents, RAG, applied ML and computer vision** (PyTorch, YOLO, Tesseract) on top of production data pipelines
 - 🛠️ **Backend:** Python (FastAPI), Go, Node.js/JavaScript — REST & SOAP APIs, microservices
-- ⚙️ **DevOps:** Docker, nginx, Linux, CI/CD, PostgreSQL, self-hosted infra
+- ⚙️ **DevOps:** Docker, nginx, Linux, Kubernets, CI/CD, PostgreSQL, self-hosted infra
 - 📫 How to reach me **enesdouaydinn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
