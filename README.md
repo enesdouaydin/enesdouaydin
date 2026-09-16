@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enes Doğukan</h1>
+<h1 align="center">Hi 👋, I'm Enes Dou</h1>
 <h3 align="center">AI Backend Developer</h3>
 
 - 🔭 I'm currently building **AI agents, microservice backends, and data platforms** — most recently a multi-service retail analytics platform (AI agent w/ local LLM via Ollama, FastAPI microservices, PostgreSQL, Docker, TypeScript/React frontend)
